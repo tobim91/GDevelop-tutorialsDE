@@ -10,7 +10,7 @@
       "scene": "level"
     }
   },
-  "availableLocales": ["en", "fr", "es", "pt", "th", "ar"],
+  "availableLocales": ["en", "fr", "es", "pt", "th", "ar", "de"],
   "initialTemplateUrl": "https://resources.gdevelop-app.com/in-app-tutorials/templates/healthBar/game.json",
   "initialProjectData": {
     "level": "Level",
@@ -25,7 +25,8 @@
           "es": "# ¡Has terminado esta lección!",
           "pt": "# Você terminou esta lição!",
           "th": "# คุณเรียนบทเรียนนี้จบแล้ว!",
-          "ar": "# لقد أنهيت هذا الدرس!"
+          "ar": "# لقد أنهيت هذا الدرس!",
+          "de": "# Du hast diese Lektion beendet!"
         }
       },
       {
@@ -35,7 +36,8 @@
           "es": "¡Bien hecho! En este tutorial, has aprendido:",
           "pt": "Bom trabalho, neste tutorial você aprendeu:",
           "th": "ทำได้ดีเยี่ยม, สิ่งที่คุณได้เรียนรู้จากบทเรียนนี้:",
-          "ar": "أحسنت، تعلمنا في هذا البرنامج التعليمي كيفية:"
+          "ar": "أحسنت، تعلمنا في هذا البرنامج التعليمي كيفية:",
+          "de": "Gut gemacht, in dieser Lektion hast du folgendes gelernt:"
         }
       },
       {
@@ -595,7 +597,8 @@
             "es": "Seleccione **$(player)**.",
             "pt": "Selecione **$(player)**.",
             "th": "เลือก **$(player)**",
-            "ar": "تحديد **$(player)**."
+            "ar": "تحديد **$(player)**.",
+            "de"; "Auswählen **$(player)**."
           }
         },
         "placement": "top"
